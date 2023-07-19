@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @b33fl0w
 - 👀 I’m interested in learning how to program any way I can!
-- 🌱 I’m currently at the very beginning of my journey. Starting with the Harvard CS50 course!
+- 🌱 I’m currently at the very beginning of my journey!
 - 💞️ The idea of collaboration at this point is terrifying. But if someone wants to mentor me I won't complain 😅
 - 📫 Reach me here!
 
